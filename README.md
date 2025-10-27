@@ -1,18 +1,19 @@
 # 👋 Hi there, I'm ALI RAZA
 
-🎯 **Full Stack Developer | MERN Stack Enthusiast | Data Science Explorer**
+🎯 **Full Stack Developer | MERN Stack Enthusiast | Generative AI & Data Science Explorer**
 
-Passionate about crafting scalable web applications and delving into data-driven solutions. I thrive on building projects that merge functionality with user-centric design.
+Passionate about crafting scalable web applications and exploring the intersection of AI and software engineering. I love building projects that merge functionality, intelligence, and user-centric design.
 
 ---
 
 ## 🧰 Specialties
 
-- **Frontend Development:** Crafting responsive interfaces with React.js and modern JavaScript.
-- **Backend Development:** Building robust APIs using Node.js and Express.
-- **Database Management:** Designing and managing databases with MongoDB.
-- **Data Analysis & Visualization:** Utilizing Python libraries like Pandas, NumPy, and Matplotlib to extract insights.
-- **Version Control:** Efficient collaboration and code management using Git and GitHub.
+- **Frontend Development:** Building responsive and interactive interfaces with React.js and modern JavaScript (ES6+).
+- **Backend Development:** Creating robust RESTful APIs using Node.js and Express.js with JWT authentication.
+- **Database Management:** Designing and optimizing data models using MongoDB.
+- **Generative AI & Automation:** Integrating OpenAI and Gemini APIs with function calling and MCP server for AI-driven automation and intelligent workflows.
+- **Data Science Foundations:** Applying Python for data analysis using Pandas, NumPy, and Matplotlib to extract actionable insights.
+- **Version Control:** Efficient code management and team collaboration using Git and GitHub.
 
 ---
 
@@ -29,10 +30,21 @@ Passionate about crafting scalable web applications and delving into data-driven
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-A82C1E?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🤖 AI & Automation Highlights
+
+- Integrated **OpenAI** and **Gemini APIs** for intelligent app automation.  
+- Implemented **function calling**, **MCP server**, and **n8n workflows** for AI-powered systems.  
+- Experimenting with **data science models** for predictions and insights using Python.
 
 ---
 
@@ -46,7 +58,6 @@ Passionate about crafting scalable web applications and delving into data-driven
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+I'm always open to discussing new projects, AI integrations, or opportunities to collaborate on modern web solutions.
 
 ---
-
