@@ -48,13 +48,6 @@ Passionate about crafting scalable web applications and exploring the intersecti
 
 ---
 
-## 📊 GitHub Stats
-
-![Ali Raza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Raza-12&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Raza-12&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
