@@ -51,6 +51,6 @@ Passionate about crafting scalable web applications and exploring the intersecti
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, AI integrations, or opportunities to collaborate on modern web solution.
+I'm always open to discussing new projects, AI integrations, or opportunities to collaborate on modern web solutions.
 
 ---
