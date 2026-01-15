@@ -1,23 +1,25 @@
-# 👋 Hi there, I'm ALI RAZA
+# Ali Raza
 
-🎯 **Full Stack Developer | MERN Stack Enthusiast | Generative AI & Data Science Explorer**
+**Full Stack Developer**
 
-Passionate about crafting scalable web applications and exploring the intersection of AI and software engineering. I love building projects that merge functionality, intelligence, and user-centric design.
+I am a Full Stack Developer with hands-on experience building scalable, secure, and user-focused web applications using the MERN stack. I actively work at the intersection of web development and Generative AI, integrating modern AI capabilities into real-world applications.
 
----
-
-## 🧰 Specialties
-
-- **Frontend Development:** Building responsive and interactive interfaces with React.js and modern JavaScript (ES6+).
-- **Backend Development:** Creating robust RESTful APIs using Node.js and Express.js with JWT authentication.
-- **Database Management:** Designing and optimizing data models using MongoDB.
-- **Generative AI & Automation:** Integrating OpenAI and Gemini APIs with function calling and MCP server for AI-driven automation and intelligent workflows.
-- **Data Science Foundations:** Applying Python for data analysis using Pandas, NumPy, and Matplotlib to extract actionable insights.
-- **Version Control:** Efficient code management and team collaboration using Git and GitHub.
+My focus is on clean architecture, performance, and building solutions that create measurable impact.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Core Expertise
+
+- **Frontend Development:** Building responsive and accessible interfaces using React.js, modern JavaScript (ES6+), and UI frameworks.
+- **Backend Development:** Designing secure and scalable RESTful APIs using Node.js and Express.js, including JWT-based authentication.
+- **Database Design:** Modeling and optimizing data using MongoDB for performance and scalability.
+- **Generative AI & Automation:** Implementing OpenAI and Gemini APIs, tool/function calling, MCP server concepts, and AI-driven workflows.
+- **Data Science Foundations:** Performing data analysis and visualization using Python (Pandas, NumPy, Matplotlib).
+- **Collaboration & Version Control:** Git-based workflows with GitHub for team collaboration and code quality.
+
+---
+
+## Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,17 +42,26 @@ Passionate about crafting scalable web applications and exploring the intersecti
 
 ---
 
-## 🤖 AI & Automation Highlights
+## AI & Automation Experience
 
-- Integrated **OpenAI** and **Gemini APIs** for intelligent app automation.  
-- Implemented **function calling**, **MCP server**, and **n8n workflows** for AI-powered systems.  
-- Experimenting with **data science models** for predictions and insights using Python.
+- Integrated **OpenAI** and **Gemini** APIs for intelligent application features.
+- Implemented **tool/function calling** and **MCP server concepts** for modular AI systems.
+- Built automation workflows using **n8n** for AI-assisted processes.
+- Applied data science fundamentals to support AI-driven decision-making.
+
+---
+
+## Professional Interests
+
+- Full Stack Web Development (MERN)
+- Generative AI & LLM-based Applications
+- AI Automation & Intelligent Systems
+- Scalable Backend Architecture
+- Data-Driven Product Development
 
 ---
 
+## Contact & Collaboration
 
-## 📫 Let's Connect
-
-I'm always open to discussing new projects, AI integrations, or opportunities to collaborate on modern web solutions.
-
----
+I am open to full-time roles, freelance projects, and collaborative opportunities in web development and AI-driven solutions.  
+Feel free to explore my repositories or reach out to discuss potential collaborations.
