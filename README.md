@@ -1,21 +1,42 @@
 # Ali Raza
 
-**Full Stack Developer**
+**Full Stack Developer (MERN) | Generative AI & Automation Engineer**
 
-I am a Full Stack Developer with hands-on experience building scalable, secure, and user-focused web applications using the MERN stack. I actively work at the intersection of web development and Generative AI, integrating modern AI capabilities into real-world applications.
+I am a Full Stack Developer specializing in building secure, scalable, and high-performance web applications using the MERN stack. I actively work at the intersection of modern web development and Generative AI, integrating intelligent automation and AI-driven features into real-world products.
 
-My focus is on clean architecture, performance, and building solutions that create measurable impact.
+My work focuses on clean architecture, maintainable code, performance optimization, and delivering solutions that create real business value.
+
+---
+
+## Professional Summary
+
+- 1.5+ years of hands-on experience in full-stack web development
+- Strong expertise in React, Node.js, Express, and MongoDB
+- Practical experience integrating Generative AI using OpenAI & Gemini APIs
+- Familiar with AI automation, tool/function calling, MCP server concepts, and workflow orchestration
+- Solid foundation in data science and data-driven problem solving
 
 ---
 
 ## Core Expertise
 
-- **Frontend Development:** Building responsive and accessible interfaces using React.js, modern JavaScript (ES6+), and UI frameworks.
-- **Backend Development:** Designing secure and scalable RESTful APIs using Node.js and Express.js, including JWT-based authentication.
-- **Database Design:** Modeling and optimizing data using MongoDB for performance and scalability.
-- **Generative AI & Automation:** Implementing OpenAI and Gemini APIs, tool/function calling, MCP server concepts, and AI-driven workflows.
-- **Data Science Foundations:** Performing data analysis and visualization using Python (Pandas, NumPy, Matplotlib).
-- **Collaboration & Version Control:** Git-based workflows with GitHub for team collaboration and code quality.
+- **Frontend Engineering**  
+  Building responsive, accessible, and user-centric interfaces using React.js, modern JavaScript (ES6+), and UI component libraries.
+
+- **Backend & API Development**  
+  Designing secure, scalable RESTful APIs using Node.js and Express.js with JWT authentication and role-based access control.
+
+- **Database Design & Optimization**  
+  Modeling and optimizing NoSQL databases with MongoDB for performance, reliability, and scalability.
+
+- **Generative AI & Automation**  
+  Integrating OpenAI and Gemini models, implementing function/tool calling, MCP server-based architectures, and building AI-powered automation workflows.
+
+- **Data Science Foundations**  
+  Data analysis and visualization using Python, Pandas, NumPy, and Matplotlib to support intelligent systems.
+
+- **Collaboration & Code Quality**  
+  Git-based version control, GitHub workflows, and clean coding practices for team environments.
 
 ---
 
@@ -44,10 +65,10 @@ My focus is on clean architecture, performance, and building solutions that crea
 
 ## AI & Automation Experience
 
-- Integrated **OpenAI** and **Gemini** APIs for intelligent application features.
-- Implemented **tool/function calling** and **MCP server concepts** for modular AI systems.
-- Built automation workflows using **n8n** for AI-assisted processes.
-- Applied data science fundamentals to support AI-driven decision-making.
+- Developed AI-powered features using **OpenAI** and **Gemini** APIs
+- Implemented **function/tool calling** and **MCP server**-based architectures
+- Built intelligent automation pipelines using **n8n**
+- Applied data science principles to enhance AI-driven decision making
 
 ---
 
@@ -61,7 +82,8 @@ My focus is on clean architecture, performance, and building solutions that crea
 
 ---
 
-## Contact & Collaboration
+## Contact & Opportunities
 
-I am open to full-time roles, freelance projects, and collaborative opportunities in web development and AI-driven solutions.  
-Feel free to explore my repositories or reach out to discuss potential collaborations.
+I am open to full-time roles, freelance projects, and long-term collaborations in web development and AI-driven solutions.
+
+If you’re building a product that requires clean engineering, modern AI integration, and scalable architecture, let’s connect.
