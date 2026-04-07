@@ -112,17 +112,6 @@ An AI-driven recruitment tool that ranks candidates against a job description us
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-Raza-12&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=1A56DB&icon_color=1A56DB&text_color=c9d1d9" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Raza-12&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=1A56DB&text_color=c9d1d9&langs_count=8" height="160" />
-
-</div>
-
----
-
 ## What I'm Working On
 
 - Deepening expertise in **TypeScript** for large-scale Next.js applications
