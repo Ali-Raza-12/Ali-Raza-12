@@ -75,13 +75,10 @@ I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of pr
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Raza-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=bfbfbf)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Raza-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=bfbfbf)
+![GitHub Stats](https://img.shields.io/github/stars/Ali-Raza-12?style=for-the-badge&logo=github&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Ali-Raza-12?style=for-the-badge&logo=github&color=blue)
 
 </div>
 
