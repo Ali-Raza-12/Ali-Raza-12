@@ -14,9 +14,9 @@
 
 ## 👋 Hey, I'm Ali Raza
 
-I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of production experience at **SiliconWhiz**. I build scalable MERN and Next.js applications and integrate real Generative AI features into production systems not just demos.
+I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of production experience at **SiliconWhiz**. I build scalable MERN and Next.js applications and integrate real Generative AI features into production systems—not just demos.
 
-- 🔭 Currently building production-grade full-stack apps @ **SiliconWhiz**
+- 🚀 Currently building production-grade full-stack apps @ **SiliconWhiz**
 - 🤖 Working on AI automation pipelines using **n8n**, **Groq**, and **Gemini**
 - 🌱 Deepening expertise in **TypeScript** and **MCP server architectures**
 - 💼 Open to **remote full-stack roles** and **freelance projects**
@@ -34,15 +34,19 @@ I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of pr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **AI & Automation**
 
@@ -51,12 +55,14 @@ I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of pr
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-**Tools**
+**Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -64,21 +70,24 @@ I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of pr
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🤖 [AI Apply Assist](https://github.com/Ali-Raza-12/ai-apply-assist) | Job application automation — CV upload → AI generates tailored emails | MERN · Groq · Gemini · Vite |
-| 📈 [Signalist](https://github.com/Ali-Raza-12/Signalist_stock-tracker-app) | Real-time stock intelligence platform with AI market analysis | Next.js 14 · TypeScript · Finnhub · Gemini |
-| 🔍 [ResuMate](https://github.com/Ali-Raza-12/ResuMate) | AI resume screening using semantic similarity scoring | Next.js · Python · Flask · NLP |
-| 💻 [AI Code Reviewer](https://github.com/Ali-Raza-12/code-reviewer) | Paste code, get instant AI-powered review and suggestions | MERN · Gemini API |
-| 🎓 [Learning Management System](https://github.com/Ali-Raza-12/Learning-Management-System) | Full-featured LMS with course management and student tracking | React · Node.js · MongoDB |
-| 📊 [React Admin Dashboard](https://github.com/Ali-Raza-12/Dashboard) | Production-ready admin dashboard with data visualization | React · Tailwind CSS |
+| 🤖 [AI Apply Assist](https://github.com/Ali-Raza-12/ai-apply-assist) | Job automation — CV upload → AI generates tailored emails | MERN · Groq · Gemini |
+| 📈 [Signalist](https://github.com/Ali-Raza-12/Signalist_stock-tracker-app) | Real-time stock intelligence with AI market analysis | Next.js 14 · TS · Finnhub |
+| 🔍 [ResuMate](https://github.com/Ali-Raza-12/ResuMate) | AI resume screening using semantic similarity scoring | Next.js · Flask · NLP |
+| 💻 [AI Code Reviewer](https://github.com/Ali-Raza-12/code-reviewer) | Instant AI-powered code review and optimization | MERN · Gemini API |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://img.shields.io/github/stars/Ali-Raza-12?style=for-the-badge&logo=github&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/Ali-Raza-12?style=for-the-badge&logo=github&color=blue)
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Raza-12&show_icons=true&theme=tokyonight&count_private=true" alt="Ali Raza GitHub Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Raza-12&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+
+<br/>
+
+![Stars](https://img.shields.io/github/stars/Ali-Raza-12?style=for-the-badge&logo=github&color=blue)
+![Followers](https://img.shields.io/github/followers/Ali-Raza-12?style=for-the-badge&logo=github&color=blue)
 
 </div>
 
