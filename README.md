@@ -35,17 +35,14 @@ I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of pr
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **AI & Automation**
@@ -55,15 +52,6 @@ I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of pr
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
@@ -71,8 +59,8 @@ I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of pr
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🤖 [AI Apply Assist](https://github.com/Ali-Raza-12/ai-apply-assist) | Job automation — CV upload → AI generates tailored emails | MERN · Groq · Gemini |
+| 💸 [Expense Tracker](https://github.com/Ali-Raza-12) | Real-time tracking for money & vehicle maintenance costs | React · Supabase · Tailwind |
 | 📈 [Signalist](https://github.com/Ali-Raza-12/Signalist_stock-tracker-app) | Real-time stock intelligence with AI market analysis | Next.js 14 · TS · Finnhub |
-| 🔍 [ResuMate](https://github.com/Ali-Raza-12/ResuMate) | AI resume screening using semantic similarity scoring | Next.js · Flask · NLP |
 | 💻 [AI Code Reviewer](https://github.com/Ali-Raza-12/code-reviewer) | Instant AI-powered code review and optimization | MERN · Gemini API |
 
 ---
@@ -81,7 +69,7 @@ I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of pr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-Raza-12&show_icons=true&theme=tokyonight&count_private=true" alt="Ali Raza GitHub Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Raza-12&show_icons=true&theme=tokyonight" alt="Ali Raza GitHub Stats" height="180px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Raza-12&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
 
 <br/>
