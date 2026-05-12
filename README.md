@@ -14,7 +14,7 @@
 
 ## 👋 Hey, I'm Ali Raza
 
-I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of production experience at **SiliconWhiz**. I build scalable MERN and Next.js applications and integrate real Generative AI features into production systems—not just demos.
+I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of production experience at **SiliconWhiz**. I build scalable MERN and Next.js applications and integrate real Generative AI features into production systems not just demos.
 
 - 🚀 Currently building production-grade full-stack apps @ **SiliconWhiz**
 - 🤖 Working on AI automation pipelines using **n8n**, **Groq**, and **Gemini**
