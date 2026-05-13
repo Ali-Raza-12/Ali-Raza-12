@@ -59,7 +59,7 @@ I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of pr
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🤖 [AI Apply Assist](https://github.com/Ali-Raza-12/ai-apply-assist) | Job automation — CV upload → AI generates tailored emails | MERN · Groq · Gemini |
-| 💸 [Expense Tracker](https://github.com/Ali-Raza-12) | Real-time tracking for money & vehicle maintenance costs | React · Supabase · Tailwind |
+| 💸 [Expense Tracker](https://github.com/Ali-Raza-12) | Real-time tracking of expenses, spending, lending, and financial activity | React · Supabase · Tailwind |
 | 📈 [Signalist](https://github.com/Ali-Raza-12/Signalist_stock-tracker-app) | Real-time stock intelligence with AI market analysis | Next.js 14 · TS · Finnhub |
 | 💻 [AI Code Reviewer](https://github.com/Ali-Raza-12/code-reviewer) | Instant AI-powered code review and optimization | MERN · Gemini API |
 
