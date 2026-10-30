@@ -1,87 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=200&section=header&text=Ali%20Raza&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Generative%20AI&descAlignY=58&descColor=c8d8f8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Ali%20Raza&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Next.js%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20AI%20Integration&descSize=16&descAlignY=60&descColor=e9ddff" width="100%" />
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://razatech.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-raza-19431324b)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.raza82258@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-razatech.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://razatech.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aliraza--fsd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliraza-fsd/)
+[![Email](https://img.shields.io/badge/Email-ali.raza82258%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.raza82258@gmail.com)
+[![CV](https://img.shields.io/badge/CV-Download%20PDF-111827?style=for-the-badge&logo=readdotcv&logoColor=white)](https://razatech.vercel.app/CV/Ali-Raza-CV.pdf)
 
 </div>
 
----
+## Hi, I'm Ali Raza
 
-## 👋 Hey, I'm Ali Raza
+Full Stack Developer in Lahore, Pakistan, with 2.5+ years of production experience at **SiliconWhiz**. I build web applications end to end with **Next.js, React, Node.js and TypeScript**, and I integrate **AI features (OpenAI, Gemini, Groq)** into real products rather than demos.
 
-I'm a **Full Stack Developer** based in **Lahore, Pakistan** with 2+ years of production experience at **SiliconWhiz**. I build scalable MERN and Next.js applications and integrate real Generative AI features into production systems not just demos.
+- 🛒 Built and run a live e-commerce platform and its operations dashboard for a retail client: [rouzeal.com](https://rouzeal.com)
+- 🤖 Shipping LLM-powered features: CV parsing, tailored job applications, AI market digests, code review
+- 🔐 Strong in secure REST APIs, PostgreSQL and MongoDB data modelling, caching and performance
+- 📚 Currently going deeper on AI agent workflows and MCP servers
+- 💼 Open to remote and on-site Full Stack Developer roles
 
-- 🚀 Currently building production-grade full-stack apps @ **SiliconWhiz**
-- 🤖 Working on AI automation pipelines using **n8n**, **Groq**, and **Gemini**
-- 🌱 Deepening expertise in **TypeScript** and **MCP server architectures**
-- 💼 Open to **remote full-stack roles** and **freelance projects**
-- 📧 Reach me at **ali.raza82258@gmail.com**
+## Featured work
 
----
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Rouzeal** | Live cash-on-delivery e-commerce storefront plus a staff operations dashboard (orders, courier booking, payments, returns, profit) | Next.js 16 · TypeScript · Supabase · Redis · Vitest | [Storefront](https://rouzeal.com) · [Case study](https://razatech.vercel.app/portfolio/rouzeal-storefront) |
+| **AI Apply Assist** | Generates tailored job-application emails from an uploaded CV and job description, with PII removal before storage | React · Node.js · MongoDB · Gemini · Groq | [Live](https://ai-apply-assist.vercel.app) · [Code](https://github.com/Ali-Raza-12/ai-apply-assist) |
+| **Signalist** | Stock-market intelligence platform with live watchlists and AI-generated daily digests via scheduled jobs | Next.js 14 · TypeScript · MongoDB · Inngest · Gemini | [Code](https://github.com/Ali-Raza-12/Signalist-stock-tracker) |
+| **MiniMe POS** | Live retail point-of-sale: barcode checkout, thermal receipts, inventory, suppliers and reports | React · Supabase | [Live](https://minimepos.vercel.app) |
+| **Ledgerly** | Mobile-first personal finance app with transactions, lending and monthly analytics | Next.js · TypeScript · Supabase | [Live](https://ledgerlyfinance.vercel.app) · [Code](https://github.com/Ali-Raza-12/Ledgerly) |
+| **AI Code Reviewer** | Paste code, get an instant review for bugs, best practices and performance | React · Node.js · MongoDB · Gemini | [Code](https://github.com/Ali-Raza-12/code-reviewer) |
 
-## 🛠️ Tech Stack
+Rouzeal and MiniMe POS are client products, so their source is private. Screenshots and architecture notes are on the [portfolio](https://razatech.vercel.app/#portfolio).
 
-**Frontend**
+## Tech stack
 
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-**Backend & Database**
-
+**Backend & data**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+**AI**  
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-111827?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
----
+**Tooling**  
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 Featured Projects
+## Certifications
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🤖 [AI Apply Assist](https://github.com/Ali-Raza-12/ai-apply-assist) | Job automation — CV upload → AI generates tailored emails | MERN · Groq · Gemini |
-| 💸 [Expense Tracker](https://github.com/Ali-Raza-12) | Real-time tracking of expenses, spending, lending, and financial activity | React · Supabase · Tailwind |
-| 📈 [Signalist](https://github.com/Ali-Raza-12/Signalist_stock-tracker-app) | Real-time stock intelligence with AI market analysis | Next.js 14 · TS · Finnhub |
-| 💻 [AI Code Reviewer](https://github.com/Ali-Raza-12/code-reviewer) | Instant AI-powered code review and optimization | MERN · Gemini API |
+- Microsoft Certified: Azure AI Fundamentals (AI-900), 2025 · [Verify](https://learn.microsoft.com/en-gb/users/aliraza-6399/credentials/certification/azure-ai-fundamentals)
+- Artificial Intelligence (ML, DL, DS), Corvit, 2025
+- Advanced Python & Artificial Intelligence, NAVTTC, 2023
 
----
+## Let's talk
 
-## 📊 GitHub Analytics
+Hiring for a Full Stack role, or need someone who can take a product from database to UI and add AI where it earns its place?
 
-<div align="center">
-  
-![Stars](https://img.shields.io/github/stars/Ali-Raza-12?style=for-the-badge&logo=github&color=blue)
-![Followers](https://img.shields.io/github/followers/Ali-Raza-12?style=for-the-badge&logo=github&color=blue)
-
-</div>
-
----
-
-## 🤝 Let's Work Together
-
-I'm available for **full-time remote roles**, **freelance projects**, and **AI integration work**.
-
-**[📧 ali.raza82258@gmail.com](mailto:ali.raza82258@gmail.com)** · **[🌐 razatech.vercel.app](https://razatech.vercel.app)** · **📍 Lahore, Pakistan**
+**[ali.raza82258@gmail.com](mailto:ali.raza82258@gmail.com)** · **[razatech.vercel.app](https://razatech.vercel.app)** · **[linkedin.com/in/aliraza-fsd](https://www.linkedin.com/in/aliraza-fsd/)** · Lahore, Pakistan
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" />
 </div>
